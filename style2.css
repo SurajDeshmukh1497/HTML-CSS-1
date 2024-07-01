@@ -1,0 +1,29 @@
+body{
+    
+    /*background-image: url(college.jpg); /*bg image source*/
+    background-position: center; /* bg image position */
+    background-repeat: no-repeat; /* image should repat, repat X, repeat Y, no repeat */
+    background-size: contain; /* auto = full, 
+    /* for background */
+
+}
+h1{
+    color: rgb(0, 0, 0);/*text color */
+
+}
+p {
+    color: rgb(0, 0, 0);
+}
+
+.box{
+    width: 600px;
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 14px;
+}
+.box-img{
+    width: 100%;
+    border-radius: 14px;
+}
+
